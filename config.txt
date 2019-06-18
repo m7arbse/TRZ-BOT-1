@@ -1,4 +1,4 @@
-owner=472221987151020032
+owner=327064221600710658
 prefix=t
 game=Start tplay
 stayinchannel=true
